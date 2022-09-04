@@ -21,4 +21,9 @@ Step 3: Create the tables according to the ERD document using the scripts inside
  
  Step 5: Run the script in the schema: 'Employees_data_analysis'
  
+ Step 6: Create .env file with the following details:
+          db_UserName: <your database username>
+          db_Password: <your database password>
+ 
  Step 6: For Bonus, run the script in the file: 'Bonus - Employee salary plotting'
+          
