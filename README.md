@@ -9,11 +9,17 @@ Step 1: To clone the repo use the following command:
 Step 2: Find the ERD document - 'ERD - Employee relations' in the folder
 
 Step 3: Create the tables according to the ERD document using the scripts inside the following folders in order:
+
         1)  Titles_sql
+        
         2)  Employees_sql 
+        
         3)  Department_sql
+        
         4)  Salaries_sql
+        
         5)  Dept_manager_sql
+        
         6)  Dept_emp_sql
   
         Alternately you can execute the code in the schema: 'ERD - Employee relations' to create all the tables together.
