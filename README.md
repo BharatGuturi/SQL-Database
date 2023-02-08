@@ -1,4 +1,4 @@
-# sql-Challenge
+# SQL Database
 
 This is a research project about people whom a particular company employed during the 1980s and 1990s. In this project, tables are designed to hold the data from the CSV files, import the CSV files into a SQL database. Data modelling, data engineering and data analysis are performed. 
 
