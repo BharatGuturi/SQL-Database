@@ -4,7 +4,7 @@ This is a research project about people whom a particular company employed durin
 
 ## Instructions
 Step 1: To clone the repo use the following command:
-  https://github.com/BharatGuturi/sql-Challenge.git
+  https://github.com/BharatGuturi/SQL-Database.git
   
 Step 2: Find the ERD document - 'ERD - Employee relations' in the folder
 
